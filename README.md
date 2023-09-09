@@ -9,7 +9,7 @@
 
 - :zap: Loves to explore new trends and technologies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-de-alwis-9a2a571b1/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-de-alwis-9a2a571b1/) 
 
 ---
 
