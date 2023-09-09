@@ -1,5 +1,5 @@
 ### Hi there! I'm Kavindu de Alwis 👋
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+<!--![](https://komarev.com/ghpvc/?username=your-github-username&color=green) -->
 
 ### :woman_technologist: About Me :
 
