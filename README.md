@@ -3,13 +3,13 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m a fresh computer science graduate from University of Westminster UK. 
+- :seedling: I’m a fresh computer science graduate from University of Westminster UK. 
 
-- :seedling: Interested in developing web applications using javascript libraries such as React.
+- :telescope: Interested in developing web applications using javascript libraries such as React.
 
 - :zap: Loves to explore new trends and technologies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-de-alwis-9a2a571b1/) 
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-de-alwis-9a2a571b1/) 
 
 ---
 
