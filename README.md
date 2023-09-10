@@ -3,7 +3,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m a fresh computer science graduate. 
+- :telescope: I’m a fresh computer science graduate from University of Westminster UK. 
 
 - :seedling: Interested in developing web applications using javascript libraries such as React.
 
