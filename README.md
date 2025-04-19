@@ -3,9 +3,9 @@
 
 ### :woman_technologist: About Me :
 
-- :seedling: I’m a fresh computer science graduate from University of Westminster UK. 
+- :seedling: I’m a computer science graduate from University of Westminster UK, currently working as a Software Engineer. 
 
-- :telescope: Interested in developing web applications using javascript libraries such as React.
+- :telescope: Interested in building web apps using react, node, and django.
 
 - :zap: Loves to explore new trends and technologies.
 
